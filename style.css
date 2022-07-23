@@ -1,0 +1,94 @@
+head{
+    text-align: center;
+    background-color: black;
+}
+
+body{
+    background-color: blue;
+    color:green;
+    text-align: center;
+}
+
+h3  div{
+    vertical-align: left;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.CAPCW{
+    height:300px;
+    width: 125%;
+}
+.CAP{
+    height:300px;
+    width: 125%;
+}
+.CAPWW2{
+    height:300px;
+    width: 125%;
+}
+.HYDRA{
+    height: 300px;
+    width:125%;
+}
+.HAMMER{
+    height:300px;
+    width: 125%;
+}
+.CAPPARA{
+    color:blue;
+    font-size:20px;
+    font-family:Rockwell;
+}
+.IRNMAN{
+    height:300px;
+    width:95%;
+}
+.DMON{
+    height:300px;
+    width:95%;
+}
+.MCU{
+    height:300px;
+    width:95%;
+}
+.SUPERIOR{
+    height:300px;
+    width:95%;
+}
+.CIVIL{
+    height:300px;
+    width:95%;
+}
+.A{
+    text-align:center;
+    color:darkgreen;
+}
+.B{
+    text-align:center;
+    color:darkgreen;
+}
+.C{
+    text-align:center;
+    color:darkgreen;
+}
+.D{
+    text-align:center;
+    color:darkgreen;
+}
+.E{
+    text-align:center;
+    color:darkgreen;
+}
+#DEEZ{
+    color:yellow;
+}
+.amongus{
+    text-align:left;
+}
